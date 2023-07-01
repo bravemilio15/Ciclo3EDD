@@ -1,0 +1,33 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "informacion": {
+                "@class": "modelo.Obra",
+                "id": 1,
+                "nombre": "MUSICAL"
+            },
+            "siguiente": {
+                "informacion": {
+                    "@class": "modelo.Obra",
+                    "id": 2,
+                    "nombre": "TEATRAL"
+                },
+                "siguiente": {
+                    "informacion": {
+                        "@class": "modelo.Obra",
+                        "id": 3,
+                        "nombre": "LITERARIA"
+                    },
+                    "siguiente": {
+                        "informacion": {
+                            "@class": "modelo.Obra",
+                            "id": 4,
+                            "nombre": "ESTUDIANTIL"
+                        }
+                    }
+                }
+            }
+        },
+        "size": 4
+    }
+}
