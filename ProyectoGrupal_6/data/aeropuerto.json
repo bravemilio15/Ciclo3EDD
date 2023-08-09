@@ -1,0 +1,245 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Aeropuerto",
+                "id": 1,
+                "nombre": "Aeropuerto JFK",
+                "ciudad": "Nueva York"
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Aeropuerto",
+                    "id": 2,
+                    "nombre": "Aeropuerto LAX",
+                    "ciudad": "Los Ángeles"
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Aeropuerto",
+                        "id": 3,
+                        "nombre": "Aeropuerto Heathrow",
+                        "ciudad": "Londres"
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Aeropuerto",
+                            "id": 4,
+                            "nombre": "Aeropuerto Charles de Gaulle",
+                            "ciudad": "París"
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Aeropuerto",
+                                "id": 5,
+                                "nombre": "Aeropuerto Narita",
+                                "ciudad": "Tokio"
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Aeropuerto",
+                                    "id": 6,
+                                    "nombre": "Aeropuerto Sydney",
+                                    "ciudad": "Sídney"
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Aeropuerto",
+                                        "id": 7,
+                                        "nombre": "Aeropuerto El Dorado",
+                                        "ciudad": "Bogotá"
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Aeropuerto",
+                                            "id": 8,
+                                            "nombre": "Aeropuerto Jorge Chávez",
+                                            "ciudad": "Lima"
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Aeropuerto",
+                                                "id": 9,
+                                                "nombre": "Aeropuerto Benito Juárez",
+                                                "ciudad": "Ciudad de México"
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Aeropuerto",
+                                                    "id": 10,
+                                                    "nombre": "Aeropuerto Dubai",
+                                                    "ciudad": "Dubái"
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Aeropuerto",
+                                                        "id": 11,
+                                                        "nombre": "Aeropuerto Changi",
+                                                        "ciudad": "Singapur"
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Aeropuerto",
+                                                            "id": 12,
+                                                            "nombre": "Aeropuerto Hong Kong",
+                                                            "ciudad": "Hong Kong"
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Aeropuerto",
+                                                                "id": 13,
+                                                                "nombre": "Aeropuerto Incheon",
+                                                                "ciudad": "Seúl"
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Aeropuerto",
+                                                                    "id": 14,
+                                                                    "nombre": "Aeropuerto Frankfurt",
+                                                                    "ciudad": "Fráncfort"
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Aeropuerto",
+                                                                        "id": 15,
+                                                                        "nombre": "Aeropuerto Atatürk",
+                                                                        "ciudad": "Estambul"
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Aeropuerto",
+                                                                            "id": 16,
+                                                                            "nombre": "Aeropuerto Adolfo Suárez Madrid-Barajas",
+                                                                            "ciudad": "Madrid"
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Aeropuerto",
+                                                                                "id": 17,
+                                                                                "nombre": "Aeropuerto Leonardo da Vinci-Fiumicino",
+                                                                                "ciudad": "Roma"
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Aeropuerto",
+                                                                                    "id": 18,
+                                                                                    "nombre": "Aeropuerto O'Hare",
+                                                                                    "ciudad": "Chicago"
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Aeropuerto",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Aeropuerto Pearson",
+                                                                                        "ciudad": "Toronto"
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Aeropuerto",
+                                                                                            "id": 20,
+                                                                                            "nombre": "Aeropuerto Guarulhos",
+                                                                                            "ciudad": "São Paulo"
+                                                                                        },
+                                                                                        "sig": {
+                                                                                            "info": {
+                                                                                                "@class": "modelo.Aeropuerto",
+                                                                                                "id": 21,
+                                                                                                "nombre": "Aeropuerto Cancún",
+                                                                                                "ciudad": "Cancún"
+                                                                                            },
+                                                                                            "sig": {
+                                                                                                "info": {
+                                                                                                    "@class": "modelo.Aeropuerto",
+                                                                                                    "id": 22,
+                                                                                                    "nombre": "Aeropuerto Hamad",
+                                                                                                    "ciudad": "Doha"
+                                                                                                },
+                                                                                                "sig": {
+                                                                                                    "info": {
+                                                                                                        "@class": "modelo.Aeropuerto",
+                                                                                                        "id": 23,
+                                                                                                        "nombre": "Aeropuerto Kuala Lumpur",
+                                                                                                        "ciudad": "Kuala Lumpur"
+                                                                                                    },
+                                                                                                    "sig": {
+                                                                                                        "info": {
+                                                                                                            "@class": "modelo.Aeropuerto",
+                                                                                                            "id": 24,
+                                                                                                            "nombre": "Aeropuerto Atenas",
+                                                                                                            "ciudad": "Atenas"
+                                                                                                        },
+                                                                                                        "sig": {
+                                                                                                            "info": {
+                                                                                                                "@class": "modelo.Aeropuerto",
+                                                                                                                "id": 25,
+                                                                                                                "nombre": "Aeropuerto Sídney Kingsford Smith",
+                                                                                                                "ciudad": "Sídney"
+                                                                                                            },
+                                                                                                            "sig": {
+                                                                                                                "info": {
+                                                                                                                    "@class": "modelo.Aeropuerto",
+                                                                                                                    "id": 26,
+                                                                                                                    "nombre": "Aeropuerto Schiphol",
+                                                                                                                    "ciudad": "Ámsterdam"
+                                                                                                                },
+                                                                                                                "sig": {
+                                                                                                                    "info": {
+                                                                                                                        "@class": "modelo.Aeropuerto",
+                                                                                                                        "id": 27,
+                                                                                                                        "nombre": "Aeropuerto Ministro Pistarini",
+                                                                                                                        "ciudad": "Buenos Aires"
+                                                                                                                    },
+                                                                                                                    "sig": {
+                                                                                                                        "info": {
+                                                                                                                            "@class": "modelo.Aeropuerto",
+                                                                                                                            "id": 28,
+                                                                                                                            "nombre": "Aeropuerto Kansai",
+                                                                                                                            "ciudad": "Osaka"
+                                                                                                                        },
+                                                                                                                        "sig": {
+                                                                                                                            "info": {
+                                                                                                                                "@class": "modelo.Aeropuerto",
+                                                                                                                                "id": 29,
+                                                                                                                                "nombre": "Aeropuerto Jorge Wilstermann",
+                                                                                                                                "ciudad": "Cochabamba"
+                                                                                                                            },
+                                                                                                                            "sig": {
+                                                                                                                                "info": {
+                                                                                                                                    "@class": "modelo.Aeropuerto",
+                                                                                                                                    "id": 30,
+                                                                                                                                    "nombre": "Aeropuerto Ezeiza",
+                                                                                                                                    "ciudad": "Buenos Aires"
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 30
+    }
+}
